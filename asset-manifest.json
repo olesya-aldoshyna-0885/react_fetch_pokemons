@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_fetch_pokemons/static/css/main.9d35f840.css",
+    "main.js": "/react_fetch_pokemons/static/js/main.fe87d3aa.js",
+    "static/media/error.jpg": "/react_fetch_pokemons/static/media/error.7d86105a62bf3b28ec78.jpg",
+    "index.html": "/react_fetch_pokemons/index.html",
+    "main.9d35f840.css.map": "/react_fetch_pokemons/static/css/main.9d35f840.css.map",
+    "main.fe87d3aa.js.map": "/react_fetch_pokemons/static/js/main.fe87d3aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d35f840.css",
+    "static/js/main.fe87d3aa.js"
+  ]
+}
