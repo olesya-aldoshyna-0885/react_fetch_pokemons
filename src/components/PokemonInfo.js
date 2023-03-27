@@ -64,7 +64,6 @@ import pokemonAPI from '../services/pokemon-api';
 //         );
 //     }
 //     }
-
 const Status = {
   IDLE: 'idle',
   PENDING: 'pending',
